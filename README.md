@@ -26,6 +26,8 @@ Si has visto un error en la traducción, no tienes más que crear un issue indic
 
 Si no te importan los spoilers y te sientes bravo (por favor, solo si has terminado el juego al 100%), puedes editar el fichero `assets/Translation.xml` en la línea del error tú mismo y crear una _pull request_.
 
+## I have seen an error in the translation
+
 If you have seen an error in the translation, all you have to do is create an issue indicating the error, if possible the full text or with an image capture.
 
 If you don't care about spoilers and feel brave (please, only if you've 100% finished the game), you can edit the `assets/Translation.xml` file in the error line yourself and create a pull request.
