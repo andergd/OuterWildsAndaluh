@@ -9,6 +9,10 @@ Traducción de Outer Wilds en andaluz.
 Transcripción generada a partir de la traducción original y oficial de Outer Wilds en castellano/español utilizando el [transcriptor de Andalugeeks](https://github.com/andalugeeks/andaluh-py).
 Se han modificado algunos nombres propios para adecuarse a la grafía andaluza.
 
+Translation of Outer Wilds in Andalusian.
+
+Transcription generated from the original and official translation of Outer Wilds in Spanish using the [Andalugeeks Transcriber](https://github.com/andalugeeks/andaluh-py).
+Some proper nouns have been modified to adapt them to the Andalusian spelling.
 
 ## E bîtto un errôh en la tradûççión
 
@@ -21,3 +25,7 @@ Se han modificado algunos nombres propios para adecuarse a la grafía andaluza.
 Si has visto un error en la traducción, no tienes más que crear un issue indicando el error, a ser posible el texto completo o con una captura de imagen. 
 
 Si no te importan los spoilers y te sientes bravo (por favor, solo si has terminado el juego al 100%), puedes editar el fichero `assets/Translation.xml` en la línea del error tú mismo y crear una _pull request_.
+
+If you have seen an error in the translation, all you have to do is create an issue indicating the error, if possible the full text or with an image capture.
+
+If you don't care about spoilers and feel brave (please, only if you've 100% finished the game), you can edit the `assets/Translation.xml` file in the error line yourself and create a pull request.
