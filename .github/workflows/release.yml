@@ -11,7 +11,7 @@ on:
           type: boolean
 
 env:
-    PROJ_USERNAME: Vholy IQ
+    PROJ_USERNAME: VholyIQ
     PROJ_NAME: OuterWildsAndaluh
 
 jobs:
