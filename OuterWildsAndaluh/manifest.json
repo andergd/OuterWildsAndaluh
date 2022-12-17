@@ -4,7 +4,7 @@
   "author": "VholyIQ",
   "name": "Outer Wilds en Andaluh",
   "uniqueName": "VholyIQ.OuterWildsAndaluh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.8.0",
   "dependencies": [
     "xen.LocalizationUtility"
