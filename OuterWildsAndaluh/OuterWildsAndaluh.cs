@@ -16,7 +16,7 @@ namespace OuterWildsAndaluh
         {
 
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            api.RegisterLanguage(this, "Andaluh", "assets/epa.xml");
+            api.RegisterLanguage(this, "Andalûh", "assets/epa.xml");
 
             // Starting here, you'll have access to OWML's mod helper.
             ModHelper.Console.WriteLine($"My mod {nameof(OuterWildsAndaluh)} is loaded!", MessageType.Success);
